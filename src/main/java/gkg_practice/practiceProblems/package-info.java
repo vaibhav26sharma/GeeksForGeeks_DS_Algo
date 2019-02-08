@@ -5,4 +5,4 @@
  * @author vaibhavsharma
  *
  */
-package codemonk.practiceProblems;
+package gkg_practice.practiceProblems;

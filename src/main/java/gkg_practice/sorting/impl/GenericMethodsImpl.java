@@ -1,4 +1,4 @@
-package codemonk.sorting.impl;
+package gkg_practice.sorting.impl;
 
 public class GenericMethodsImpl {
 	

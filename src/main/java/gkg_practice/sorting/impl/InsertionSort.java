@@ -1,4 +1,4 @@
-package codemonk.sorting.impl;
+package gkg_practice.sorting.impl;
 
 /*
 It iterates the array by growing the sorted list behind it at each iteration. 
