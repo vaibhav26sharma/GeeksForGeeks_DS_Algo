@@ -55,7 +55,7 @@ public class BFS_with_QUEUE {
 	
 	
 	public static void main(String args[]) {
-		Node root = new Node(10); 
+	Node root = new Node(10); 
         root.left = new Node(11); 
         root.left.left = new Node(7); 
         root.left.right=new Node(12);
